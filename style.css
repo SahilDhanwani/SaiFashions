@@ -1,5 +1,5 @@
 body {
-    background-color: #fd9191;
+    background-color: pink;
     font-family: Arial, sans-serif;
     margin: auto;
     padding: auto;
@@ -25,11 +25,11 @@ body {
 
 h5 {
     padding: 10px;
-    color: aqua;
+    color: rgb(64, 13, 245);
     border: 2px solid black;
     border-radius: 30px;
 }
 
 span {
-    color: #f90d9f;
+    color: rgb(250, 4, 4);
 }
