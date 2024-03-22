@@ -7,6 +7,12 @@ var retail = document.getElementById('retail');
 var code = document.getElementById('code');
 var no = document.getElementById('no');
 
+actual.textContent = '000';
+wholesale.textContent = '000';
+retail.textContent = '000';
+no.textContent = '000';
+code.textContent = '---';
+
 purchase.addEventListener('input', calculate);
 percent.addEventListener('input', calculate);
 
