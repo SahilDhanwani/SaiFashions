@@ -11,9 +11,10 @@ body {
     align-items: center;
 }
 
-/* h5 {
-    width: max-content;
-} */
+h1 {
+    font-size: 50px;
+}
+
 #input {
     display: flex;
     align-items: center;
